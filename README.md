@@ -1,3 +1,7 @@
 # Modify this portfolio
 
-Make it your own! 
+## About Roger
+
+### This Portfolio is about me, Roger Wells
+
+<https://about-roger.netlify.app>
