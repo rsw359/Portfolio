@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 My name is Roger Wells and I’m a software engineer. Before I was an engineer, I was a teacher. I have a background in Education, having worked as a high school teacher for about 10 years. I value excellence in my code. I want to find the best way to do what needs to be done, even if that means that I have to learn new technologies. I enjoy design and working in CSS and Javascript. But I am very interested in data analysis and the backend, having focused on Python as my stack. One of my strengths is good communication. I love people, talking to people, and working on teams. What I bring to the table is ownership. I believe that I should strive to do the best I can to deliver the results that I am responsible for, but I am also keen to go above and beyond whenever possible. I like to find opportunities to improve on my work and further develop my skills. The thing that most excites me in tech is machine learning. Being able to teach a computer to do something that we need to get done is exciting. The possibilities are vast. Hopefully, we don't accidentally create SkyNet.",
+      "description": "👋 My name is Roger Wells and I’m a software engineer. Before I was an engineer, I was a teacher in high schools tin Japan for about 10 years.  I enjoy design and working in CSS and Javascript. But I am very interested in data analysis and the backend, having focused on Python as my stack. One of my strengths is good communication. I love people, talking to people, and working on teams. What I try bring to the table is ownership. I believe that I should strive to do the best I can to deliver the results that I am responsible for, but I am also keen to go above and beyond whenever possible. The thing that most excites me in tech is machine learning. Being able to teach a computer to do something that we need to get done is exciting. Outside of work, I am a cyclist/photographer/audiophile.",
       
       
       "section_name": {
@@ -13,108 +13,102 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Terminal Development",
+        "startDate": "2022",
+        "description": "A collaborative project where I build a site out with 3 team mates. The site's focus is helping those new to JavaScript learn some new terms. It features randomly selected flash cards, and a test page with random questions being presented to the user.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "/images/portfolio/Terminal/terminal.png",
+          "/images/portfolio/Terminal/terminal-2.png",
+          "/images/portfolio/Terminal/terminal-3.png",
+          "/images/portfolio/Terminal/terminal-4.png"
         ],
-        "url": "",
+        "url": "https://json-borne.github.io/terminal-development/index.html",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          }
+         
+        
+        ]
+      },
+      {
+        "title": "About Me",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I built an about-me page with some personal information and some of my personal photography. The page also features a short quiz about me to pique visitors' interest!",
+        "images": [
+          "images/portfolio/About/about-1.png",
+          "/images/portfolio/About/about-2.jpg",
+          "/images/portfolio/About/about-3.jpg"
+          
+          
+          
+        ],
+        "url": "https://rsw359.github.io/about-me/",
+        "technologies": [
+         
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "salmon cookies",
+        "startDate": "2022",
+        "description": "A friend of mine opened a cookie shop and took it global! He asked me to build a site for him that included a sales page for employees. He asked me to sprinkle in a bit of humor, too. The site needed an updatable table to log daily global sales, which was the first time I had to build something like that. I learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmon/sammons-1.png",
+          "images/portfolio/salmon/sammons-2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://rsw359.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
+
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           }
+          
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer",
+        "years": "2.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python 8/9/10"
         ],
         "technologies": [
-          "REST API",
+          "Python",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React-Bootstrap",
+          "CSS",
+          "Sass",
+          "Node.js",
+          "React"
         ]
       }
+      
     ]
   }
